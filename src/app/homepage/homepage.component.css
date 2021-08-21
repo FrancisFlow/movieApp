@@ -1,0 +1,18 @@
+.given {
+    background-image: url(src/assets/lionme.jpg);
+    color: white;
+
+}
+button{
+    border-radius: 12px;
+    padding:5px;
+    font-size: large;
+    margin:10px;
+    border-style: dotted;
+    background-color: cyan;
+}
+
+button:hover {
+    background-color: lawngreen;
+
+}

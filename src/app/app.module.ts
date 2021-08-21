@@ -9,6 +9,7 @@ import { HomepageComponent } from './homepage/homepage.component';
   declarations: [
     AppComponent,
     HomepageComponent
+    
   ],
   imports: [
     BrowserModule,
